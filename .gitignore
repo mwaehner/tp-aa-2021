@@ -130,3 +130,4 @@ dmypy.json
 
 archive/
 .idea/
+**/.DS_Store
